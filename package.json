@@ -1,0 +1,20 @@
+{
+  "name": "react-back",
+  "version": "1.0.0",
+  "description": "后端demo",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingcwt/react-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingcwt/react-back/issues"
+  },
+  "homepage": "https://github.com/kingcwt/react-back#readme"
+}
