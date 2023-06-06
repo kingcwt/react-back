@@ -37,6 +37,12 @@ let data = [
         image:
             'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     },
+    {
+        name: 'chr3',
+        email: 'chr3.com',
+        image:
+            'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    },
 ]
 let server = http.createServer(function (req, res) {
     res.setHeader('Access-Control-Allow-Origin', '*');
